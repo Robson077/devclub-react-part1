@@ -1,0 +1,20 @@
+{
+  "name": "stackblitz-starters-jscfd2",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "babel-plugin-styled-components": ">= 2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^6.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
