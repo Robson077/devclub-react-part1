@@ -2,7 +2,7 @@ Arguments:
   /usr/local/bin/node /opt/yarn-v1.22.19/bin/yarn.js add vscode-styled-components
 
 PATH: 
-  /project/home/robson077/.local/state/fnm_multishells/1316_1695376786181/bin:/usr/share/fnm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+  /project/home/robson077/.local/state/fnm_multishells/17278_1695380854771/bin:/usr/share/fnm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 
 Yarn version: 
   1.22.19

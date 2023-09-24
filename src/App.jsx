@@ -1,13 +1,11 @@
-import {Title} from "./styles"
+import {Title, Container} from "./styles"
 
 function App() {
-  const hello = "heo world"
 
   return (
-    <div>
-      <Title>{hello}</Title>
-      <p>Start editing to see some magic happen :)</p>
-    </div>
+    <Container>
+      <Title>Olá</Title>
+    </Container>
   );
 }
 
